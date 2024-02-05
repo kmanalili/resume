@@ -1,7 +1,7 @@
 # Kaitlyn Manalili
 - kmanalili@mines.edu
 - Golden, CO
-![image](~/Downloads/kaitlynimage.png")
+![image](kaitlynimage.png")
 ## Education
 - Colorado School of Mines **3.99 GPA**
 - BS Geophysical Engineering, Data Science Minor
