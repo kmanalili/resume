@@ -1,8 +1,8 @@
 # Kaitlyn Manalili
 - kmanalili@mines.edu
 - Golden, CO
-![image](kaitlynimage.png")
-## Education
+![image]("https://images.sidearmdev.com/resize?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fmines.sidearmsports.com%2fimages%2f2023%2f8%2f17%2fwsoc_kailtyn_manalili_MG_6758.jpg&width=300&type=jpeg")
+## Education:
 - Colorado School of Mines **3.99 GPA**
 - BS Geophysical Engineering, Data Science Minor
 ## Experience
